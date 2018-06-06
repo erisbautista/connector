@@ -1,0 +1,15 @@
+C:\Users\jemelle\Desktop\github\connector\connector\connector\bin\Debug\connector.exe.config
+C:\Users\jemelle\Desktop\github\connector\connector\connector\bin\Debug\connector.exe
+C:\Users\jemelle\Desktop\github\connector\connector\connector\bin\Debug\connector.pdb
+C:\Users\jemelle\Desktop\github\connector\connector\connector\bin\Debug\connector.xml
+C:\Users\jemelle\Desktop\github\connector\connector\connector\bin\Debug\MySql.Data.dll
+C:\Users\jemelle\Desktop\github\connector\connector\connector\bin\Debug\Google.Protobuf.dll
+C:\Users\jemelle\Desktop\github\connector\connector\connector\bin\Debug\MySql.Data.xml
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\WindowsApp5.Form1.resources
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.vbproj.GenerateResource.cache
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.vbproj.CoreCompileInputs.cache
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.vbproj.CopyComplete
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.exe
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.xml
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.pdb

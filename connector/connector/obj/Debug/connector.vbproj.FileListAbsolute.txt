@@ -13,3 +13,4 @@ C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connecto
 C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.exe
 C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.xml
 C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.pdb
+C:\Users\jemelle\Desktop\github\connector\connector\connector\obj\Debug\connector.vbprojAssemblyReference.cache
